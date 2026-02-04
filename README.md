@@ -4,7 +4,7 @@ A comprehensive collection of DSA implementations in **C++** and **Python** cove
 
 ---
 
-## 📚 Contents
+## Contents
 
 This repository contains **19 practical implementations** organized by topic and programming language.
 
@@ -65,7 +65,7 @@ DSA-Practicals/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### **Running C++ Programs**
 
@@ -129,7 +129,7 @@ python3 binary_search_tree.py
 
 ---
 
-## 💡 Real-World Applications
+## Real-World Applications
 
 Each implementation includes practical use cases:
 
@@ -142,7 +142,7 @@ Each implementation includes practical use cases:
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 - ✅ Clean, well-commented code
 - ✅ Real-world problem statements
@@ -153,7 +153,7 @@ Each implementation includes practical use cases:
 
 ---
 
-## 📚 Learning Resources
+## Learning Resources
 
 For detailed explanations and analysis:
 - Check individual program comments
@@ -162,7 +162,7 @@ For detailed explanations and analysis:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **C++** - Standard Template Library (STL), Manual memory management
 - **Python** - Built-in data structures, Clean syntax
