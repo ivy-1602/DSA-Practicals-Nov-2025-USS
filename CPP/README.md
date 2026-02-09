@@ -45,18 +45,18 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ### Sorting/ - *The Nested Loop Saga*
 
-#### 1. **bubble_sort.cpp** - My First Love
+#### 1. **bubble_sort.cpp** - reminded me of viral boba coffee
 - Sorts student records by name or CGPA
-- **Complexity:** O(n²) - Yes, it's slow, but it's *my* slow
+- **Complexity:** O(n²) - Yes, it's slow, but worth itttt
 - **Memory:** O(1) - At least it's space-efficient!
-- **Real talk:** This was the first algorithm I understood completely. The bubble analogy finally clicked!
+- **Real talk:** This was the first algorithm I understood completely.
 
 #### 2. **selection_sort.cpp** - The Minimalist
 - Find minimum, swap, repeat. Simple life.
 - **Complexity:** O(n²) - Same time, fewer swaps though!
 - **Best moment:** When I realized it does less swapping than bubble sort and felt like a genius
 
-#### 3. **insertion_sort.cpp** - The Underdog
+#### 3. **insertion_sort.cpp** - The Social One
 - **Complexity:** O(n²) worst case, but O(n) when almost sorted!
 - **Pro tip:** Use this when your TA gives you "almost sorted" test cases
 - **Memory:** Still sorting cards in my head like this algorithm taught me
@@ -66,7 +66,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 - **Space:** O(1) - In-place sorting like a bossssss
 - **Confession:** Took me 6 tries to understand heapify. The binary tree visualization!!!!
 
-#### 5. **merge_sort.cpp** - The Divide & Conquer Hero
+#### 5. **merge_sort.cpp** - British Govt. in India during the colonial rule era 
 - Sorts delivery times (because why not make it practical?)
 - **Complexity:** O(n log n) - Reliable like me ;)
 - **Space:** O(n) - Needs extra space but worth it
@@ -75,13 +75,13 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ### 🥂 Stack/ - *LIFO *
 
-#### 1. **infix_to_postfix.cpp** - The Expression Wizard
+#### 1. **infix_to_postfix.cpp** - fun
 - Converts `(a+b)*c` to `ab+c*`
 - **Implementation:** Linked list stack (because we're fancy)
 - **Time:** O(n) - One pass, no stress
 - **Eureka moment:** When I realized calculators use this internally 🤯
 
-#### 2. **infix_to_prefix.cpp** - The Mind Bender
+#### 2. **infix_to_prefix.cpp** - in notebook it was easy to solve
 - Same thing but backwards (literally)
 - **Algorithm:** Reverse → Convert → Reverse again
 - **Brain cells lost:** Too many to count
@@ -107,7 +107,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 - **Space:** O(1)
 - **Vibe:** "I'll check every single one, no problem"
 
-#### 2. **binary_search.cpp** - The Smart Cookie
+#### 2. **binary_search.cpp** 
 - **Time:** O(log n) - SO much faster
 - **Catch:** Array must be sorted (there's always a catch)
 - **Favorite analogy:** Like finding a word in the dictionary. Nobody actually starts from 'A'!
