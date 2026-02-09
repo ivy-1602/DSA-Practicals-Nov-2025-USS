@@ -19,7 +19,7 @@ CPP/
 
 ---
 
-## Running These Bad Boysssss
+## 😎 Running These Bad Boysssss
 
 ### The "Please Just Work" Method
 ```bash
@@ -205,16 +205,14 @@ delete[] arr;             // FREE IT
 - **Test edge cases**  
   Empty arrays, single elements, negative numbers - test them ALL
   
-- **Comment your code**  
-  "I'll remember what this does" - Narrator: They did not remember
+- **Don't get influened by those who's values you don't follow be it code lines or life**  
   
-- **One bug at a time**  
-  Don't try to fix everything at once. That way lies madness.
+- **One step at a time**  
+  Don't try to fix everything at once. Things happen for a reason.
 
 ### Lab Life Lessons
 - Save frequently (Ctrl+S is muscle memory now)
 - Test with small inputs first
-- That one friend who finishes early? They're lying or they're a wizard
 
 ---
 
