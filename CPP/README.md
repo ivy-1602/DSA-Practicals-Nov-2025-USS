@@ -19,7 +19,7 @@ CPP/
 
 ---
 
-## 🚀 Running These Bad Boysssss
+## Running These Bad Boysssss
 
 ### The "Please Just Work" Method
 ```bash
@@ -41,9 +41,9 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-## 📚 The Programs
+## The Programs
 
-### 🔄 Sorting/ - *The Nested Loop Saga*
+### Sorting/ - *The Nested Loop Saga*
 
 #### 1. **bubble_sort.cpp** - My First Love
 - Sorts student records by name or CGPA
@@ -73,7 +73,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-### 📚 Stack/ - *LIFO or Die Trying*
+### 🥂 Stack/ - *LIFO *
 
 #### 1. **infix_to_postfix.cpp** - The Expression Wizard
 - Converts `(a+b)*c` to `ab+c*`
@@ -89,7 +89,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-### 🎫 Queue/ - *First In, First Out (FIFO sounds so cutteeee!)*
+### 🍸 Queue/ - *First In, First Out (FIFO sounds so cutteeee!)*
 
 #### 1. **circular_queue.cpp** - The Space Saver
 - Array-based circular queue implementation
@@ -99,7 +99,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-### 🔍 Searching/ - *Hide and Seek, Algorithm Edition*
+### 🍷 Searching/ - *Hide and Seek, Algorithm Edition*
 
 #### 1. **linear_search.cpp** - The Straightforward Friend
 - Searches for student ID sequentially
@@ -114,7 +114,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-### 🧠Memory/ - *With Great Power Comes Great Segfaults*
+### 🧋Memory/ - *With Great Power Comes Great Segfaults*
 
 #### 1. **dynamic_allocation.cpp** - Growing Up with `new` and `delete`
 - Learning to manage memory like a responsible adult
@@ -136,7 +136,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-## 🐛 War Stories (Common Issues I Definitely Never Had)
+##🥤 War Stories (Common Issues I Definitely Never Had)
 
 ### "undefined reference to 'main'"
 **Translation:** You forgot the main() function, genius  
@@ -220,22 +220,22 @@ delete[] arr;             // FREE IT
 
 ## Key Concepts I Actually Understand Now
 
-✅ **Memory Management** - new, delete, and why malloc is kinda scary  
-✅ **Pointers** - Not scary anymore! (Okay, still a little scary)  
-✅ **Structures** - Because objects are for next semester  
-✅ **Recursion** - A function that calls itself
-✅ **Time Complexity** - yes O(n²)   
-✅ **Space Complexity** - Memory isn't free. RAM is expensive
+🦩 **Memory Management** - new, delete, and why malloc is kinda scary  
+🦩 **Pointers** - Not scary anymore! (Okay, still a little scary)  
+🦩 **Structures** - Because objects are for next semester  
+🦩 **Recursion** - A function that calls itself
+🦩 **Time Complexity** - yes O(n²)   
+🦩 **Space Complexity** - Memory isn't free. RAM is expensive
 
 ---
 
 ## 🌟 Personal Bests
 
-- ✨ Got merge sort working without looking at the textbook
-- 🎯 Debugged a segfault in under 10 minutes (personal record!)
-- 🏆 Explained circular queues to three classmates and it made sense
-- 💪 Wrote binary search from memory during the practical exam
-- 🎉 Finally understood Big O notation (took long enough)
+- 💅🏻 Got merge sort working without looking at the textbook
+- 💅🏻 Debugged a segfault in under 10 minutes (personal record!)
+- 💅🏻 Explained circular queues to three classmates and it made sense
+- 💅🏻 Wrote binary search from memory during the practical exam
+- 💅🏻 Finally understood Big O notation (took long enough)
 
 ---
 
@@ -260,7 +260,7 @@ TODO for future me:
 
 ---
 
-## 🎬 Final Thoughts
+## ✒️ Final Thoughts
 
 These programs aren't perfect. Some have inefficiencies. Some could be better documented. But they represent hours of learning, debugging, cursing, and finally that sweet, sweet moment when the program compiles AND runs correctly.
 
