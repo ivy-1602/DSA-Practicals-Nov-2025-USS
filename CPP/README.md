@@ -41,7 +41,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-## The Programs
+## 🍁 The Programs
 
 ### Sorting/ - *The Nested Loop Saga*
 
@@ -127,7 +127,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-## What You Need
+## 🍁 What You Need
 
 - **Compiler:** g++ (C++11 or later)
   - If you're still using Turbo C++, we are not going to talk.
@@ -136,13 +136,13 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-##🥤 War Stories (Common Issues I Definitely Never Had)
+## 🥤 War Stories (Common Issues I Definitely Never Had)
 
 ### "undefined reference to 'main'"
 **Translation:** You forgot the main() function, genius  
 **Solution:** Add `int main()` - it's not optional
 
-### Memory Leaks Everywhere
+### 🍁 Memory Leaks Everywhere
 **The crime:** Using `new` without `delete`  
 **The punishment:** Slowly eating up all your RAM  
 **The fix:** 
@@ -152,7 +152,7 @@ int* arr = new int[10];  // Allocate
 delete[] arr;             // FREE IT
 ```
 
-### Segmentation Fault (Core Dumped)
+### 🍁 Segmentation Fault (Core Dumped)
 **Common causes:**
 - Array out of bounds (check those indices!)
 - Null pointer dereference (check before you wreck)
@@ -162,7 +162,7 @@ delete[] arr;             // FREE IT
 
 ---
 
-## How I Actually Learned This Stuff
+## 🍁 How I Actually Learned This Stuff
 
 ### Week 1-2: The Sorting Marathon
 1. Started with bubble sort - felt invincible
