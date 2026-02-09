@@ -73,7 +73,7 @@ g++ -Wall -Wextra program_name.cpp -o program_name
 
 ---
 
-### 🥂 Stack/ - *LIFO *
+### 🥂 Stack/ - *LIFO*
 
 #### 1. **infix_to_postfix.cpp** - fun
 - Converts `(a+b)*c` to `ab+c*`
