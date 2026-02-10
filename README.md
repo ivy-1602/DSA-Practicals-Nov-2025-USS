@@ -71,17 +71,6 @@ Both taught me: *Different tools for different problems. Choose wisely.*
 
 ---
 
-## 🌟 Why Read the Full READMEs?
-
-Because they're not just documentation - they're:
--  The actual journey (struggles, breakthroughs, late-night realizations)
--  War stories from the trenches (segfaults, pointer pain, list comprehension enlightenment)
--  Honest comparisons (when to use what and why)
-
-**Seriously, read them.** They make the code make sense.
-
----
-
 ## Navigation
 
 **Start here based on your vibe:**
