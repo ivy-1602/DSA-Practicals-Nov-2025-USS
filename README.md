@@ -1,4 +1,4 @@
-# ✒️ DSA Dairies
+# ✒️ DSA Diaries
 
 > *A few programs. 2 languages. 1 semester of growth.*
 
