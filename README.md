@@ -42,7 +42,7 @@ python3 program_name.py
 
 ---
 
-## 📊 What's Inside
+## 👀 What's Inside
 
 | Topic | C++ | Python | Highlights |
 |-------|-----|--------|------------|
