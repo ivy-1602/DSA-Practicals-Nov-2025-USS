@@ -19,7 +19,7 @@ CPP/
 
 ---
 
-## 😎 Running These Bad Boysssss
+## 😎 Running These Bad Boyss
 
 ### The "Please Just Work" Method
 ```bash
@@ -33,7 +33,7 @@ g++ -O2 program_name.cpp -o program_name
 # Optimization flags! Look at me being all professional
 ```
 
-### The "Eyes are pAiNiNg" Debug Mode
+### The "Eyes are PAINING" Debug Mode
 ```bash
 g++ -Wall -Wextra program_name.cpp -o program_name
 # Show me ALL the warnings. I can take it.
