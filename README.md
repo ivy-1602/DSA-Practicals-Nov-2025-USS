@@ -86,7 +86,7 @@ Both taught me: *Different tools for different problems. Choose wisely.*
 **Uma Salunke**  
 AI & ML Engineering Student
 
-[LinkedIn](https://www.linkedin.com/in/umasalunke7) • [GitHub](https://github.com/ivy-1602) • [Email](mailto:uma2007salunke@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/umasalunke7) • [GitHub](https://github.com/ivy-1602) • [Email](mailto:umasalunke7@gmail.com)
 
 ---
 
