@@ -75,9 +75,9 @@ Both taught me: *Different tools for different problems. Choose wisely.*
 
 **Start here based on your vibe:**
 
-- 😤 *"I want to understand computers"* → [C++ README](CPP/README.md)
-- 😌 *"I want to get things done"* → [Python README](Python/README.md)
-- 🤓 *"I want both"* → Read both (recommended!)
+- *"I want to understand computers"* → [C++ README](CPP/README.md)
+- *"I want to get things done"* → [Python README](Python/README.md)
+- *"I want both"* → Read both (recommended!)
 
 ---
 
@@ -101,9 +101,7 @@ MIT License - Feel free to use this code for learning and reference!
 This repo isn't perfect. Some code could be cleaner. Some approaches could be more efficient. But it's real, it's honest, and it represents actual learning.
 
 **The best code is code that works. The second best is code you understand.**
-
 ---
-
 *Made with 🧠 &🧡*
 
 *P.S. - If you find a bug, no you didn't. (But if you did, the wisdom above is what I wished someone had told me.)*
